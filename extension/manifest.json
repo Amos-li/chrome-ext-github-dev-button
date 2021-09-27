@@ -4,13 +4,13 @@
   "description": "Adds a github.dev button to GitHub repo pages",
   "version": "0.0.1",
   "homepage_url":
-    "https://github.com/amos-li/chrome-ext-github-tweet-button",
+    "https://github.com/amos-li/chrome-ext-github-dev-button",
   "author": "Amos",
   "permissions": ["tabs", "*://*.github.com/*"],
   "content_scripts": [
     {
       "matches": ["*://*.github.com/*"],
-      "js": ["github-tweet-button.js"]
+      "js": ["github-dev-button.js"]
     }
   ],
   "icons": {

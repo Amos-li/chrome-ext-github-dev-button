@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Version-0.2.0-blue.svg?style=flat) [![License](https://img.shields.io/github/license/joshbuchea/chrome-ext-swifttab.svg)](LICENSE) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-Chrome extension that adds a tweet button to GitHub repo pages.
+Chrome extension that adds a Github Dev button to GitHub repo pages.
 
 ## Example
 
@@ -35,3 +35,4 @@ The tweet buttons looks like this:
 
 * [Octopus](https://thenounproject.com/search/?q=octopus&i=901) by [Carol Costa](https://thenounproject.com/carol/) from the Noun Project
 * [Bird](https://thenounproject.com/term/bird/233023/) by [Noe Araujo](https://thenounproject.com/noearaujo) from the Noun Project
+* [GitHub Tweet Button](https://github.com/joshbuchea/chrome-ext-github-tweet-button) by [Josh Buchea](https://github.com/joshbuchea) from the GitHub Tweet Button Project
