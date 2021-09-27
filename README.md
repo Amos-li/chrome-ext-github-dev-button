@@ -1,4 +1,4 @@
-# GitHub Tweet Button
+# GitHub Dev Button
 
 <p>
   <img src="resources/icon-700.png" width="320px" height="auto">
