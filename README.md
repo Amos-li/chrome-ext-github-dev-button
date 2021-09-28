@@ -6,13 +6,14 @@
 
 ---
 
-![](https://img.shields.io/badge/Version-0.0.1-blue.svg?style=flat) [![License](https://img.shields.io/github/license/joshbuchea/chrome-ext-swifttab.svg)](LICENSE) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+![](https://img.shields.io/badge/Version-0.0.1-blue.svg?style=flat) ![](https://img.shields.io/chrome-web-store/v/jeocneadjhbibahlomenbobkbijpaoem?label=Chrome%20Web%20Store&style=plastic)
+ [![License](https://img.shields.io/github/license/joshbuchea/chrome-ext-swifttab.svg)](LICENSE) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Chrome extension that adds a Github Dev button to GitHub repo pages.
 
 ## Example
 
-The tweet buttons looks like this:
+The Github dev buttons looks like this:
 
 <img src="resources/example-button-156x56.png" width="78" height="auto">
 
@@ -28,6 +29,10 @@ The tweet buttons looks like this:
 * Press "Load unpacked extension..."
 * Select the `github-tweet-button/extension` folder
 * That's it!
+### Online Install
+[![](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png)](https://chrome.google.com/webstore/detail/github-dev-button/jeocneadjhbibahlomenbobkbijpaoem) 
+
+
 
 ---
 
