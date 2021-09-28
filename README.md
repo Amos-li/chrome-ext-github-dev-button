@@ -12,7 +12,7 @@ Chrome extension that adds a Github Dev button to GitHub repo pages.
 
 ## Example
 
-The tweet buttons looks like this:
+The Github dev buttons looks like this:
 
 <img src="resources/example-button-156x56.png" width="78" height="auto">
 
