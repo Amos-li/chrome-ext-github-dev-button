@@ -28,6 +28,8 @@ The Github dev buttons looks like this:
 * Press "Load unpacked extension..."
 * Select the `github-tweet-button/extension` folder
 * That's it!
+### Online Install
+[Chrome Web Store](https://chrome.google.com/webstore/detail/github-dev-button/jeocneadjhbibahlomenbobkbijpaoem) 
 
 ---
 
